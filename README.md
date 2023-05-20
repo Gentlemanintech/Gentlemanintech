@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer/Developer
 ---------------------------
 
-I am a learner-driven Frontend Developer, who is taking both self-taught and traditional education approach to improve my skills. I am passionate about creating visually appealing and user-friendly web applications. I am constantly experimenting with new technologies to enhance my frontend development skills. Alongside my self-taught journey, I am also pursuing a degree in Software Engineering to gain a deeper understanding of the software development process. I am actively seeking internships where I can further develop my skills and gain industry experience. Let's work together to build amazing and engaging user experiences
+Gentleman in tech :man_technologist: 
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My personal Website](http://maidoki.netlify.app)
 * ✉️  You can contact me at [umaidoki42@gmail.com](mailto:umaidoki42@gmail.com)
-* 🚀  I'm currently working on [dailydeal news](http://dailydealn.netlify.app)
-* 🧠  I'm learning React js.
 * 🤝  I'm open to collaborating on interesting projects that will challenge and improve my skills
 
 ### Skills
@@ -22,6 +20,9 @@ I am a learner-driven Frontend Developer, who is taking both self-taught and tra
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 
