@@ -7,7 +7,7 @@ Frontend Engineer/Developer
 Gentleman in tech :man_technologist: 
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My personal Website](http://maidoki.netlify.app)
+* 🖥️  See my portfolio at [My personal Website][Under maintenance}
 * ✉️  You can contact me at [umaidoki42@gmail.com](mailto:umaidoki42@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects that will challenge and improve my skills
 
